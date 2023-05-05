@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test App 1.0</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="n1">First number</string>
+    <string name="n2">Second number</string>
+    <string name="addSum">Add Sum</string>
+    <string name="ic_b">Icon Launcher Foreground</string>
+    <string name="custom_toast">App 1 Custom Toast</string>
+    <string name="custom_toast_des">To</string>
+    <string name="customToast">Custom Toast</string>
+</resources>
